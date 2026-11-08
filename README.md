@@ -1,5 +1,7 @@
 # Fashion Agentic Assistant
 
+The original code and documentation are available under the [MIT License](LICENSE). The sample outfit photos in `data/sample_images/` have no documented reuse licence, so they are excluded from the MIT grant. Use images you have rights to when adapting the demo.
+
 A small, runnable class on agentic AI. It analyses the dominant colours in an
 outfit image, retrieves a local fashion rule, lets a critic inspect the evidence,
 and produces a recommendation with its provenance visible.
